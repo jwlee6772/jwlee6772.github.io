@@ -20,7 +20,8 @@ body {
 }
 
 .footer{
-    background: #b9b9b9;
+    width: 100%;
+    background: #dadada;
     text-align: center;
 }  
 
